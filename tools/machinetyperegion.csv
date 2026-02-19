@@ -1907,6 +1907,7 @@ c4-highcpu-144;144;False;288.00;;asia-southeast1
 c4-highcpu-144;144;False;288.00;;asia-southeast3
 c4-highcpu-144;144;False;288.00;;australia-southeast1
 c4-highcpu-144;144;False;288.00;;australia-southeast2
+c4-highcpu-144;144;False;288.00;;europe-central2
 c4-highcpu-144;144;False;288.00;;europe-north2
 c4-highcpu-144;144;False;288.00;;europe-southwest1
 c4-highcpu-144;144;False;288.00;;europe-west1
@@ -2055,6 +2056,7 @@ c4-highcpu-288;288;False;576.00;;asia-southeast1
 c4-highcpu-288;288;False;576.00;;asia-southeast3
 c4-highcpu-288;288;False;576.00;;australia-southeast1
 c4-highcpu-288;288;False;576.00;;australia-southeast2
+c4-highcpu-288;288;False;576.00;;europe-central2
 c4-highcpu-288;288;False;576.00;;europe-north2
 c4-highcpu-288;288;False;576.00;;europe-southwest1
 c4-highcpu-288;288;False;576.00;;europe-west1
@@ -2349,6 +2351,7 @@ c4-highmem-144;144;False;1116.00;;asia-southeast1
 c4-highmem-144;144;False;1116.00;;asia-southeast3
 c4-highmem-144;144;False;1116.00;;australia-southeast1
 c4-highmem-144;144;False;1116.00;;australia-southeast2
+c4-highmem-144;144;False;1116.00;;europe-central2
 c4-highmem-144;144;False;1116.00;;europe-north2
 c4-highmem-144;144;False;1116.00;;europe-southwest1
 c4-highmem-144;144;False;1116.00;;europe-west1
@@ -2655,6 +2658,7 @@ c4-highmem-288;288;False;2232.00;;asia-southeast1
 c4-highmem-288;288;False;2232.00;;asia-southeast3
 c4-highmem-288;288;False;2232.00;;australia-southeast1
 c4-highmem-288;288;False;2232.00;;australia-southeast2
+c4-highmem-288;288;False;2232.00;;europe-central2
 c4-highmem-288;288;False;2232.00;;europe-north2
 c4-highmem-288;288;False;2232.00;;europe-southwest1
 c4-highmem-288;288;False;2232.00;;europe-west1
@@ -3121,6 +3125,7 @@ c4-standard-144;144;False;540.00;;asia-southeast1
 c4-standard-144;144;False;540.00;;asia-southeast3
 c4-standard-144;144;False;540.00;;australia-southeast1
 c4-standard-144;144;False;540.00;;australia-southeast2
+c4-standard-144;144;False;540.00;;europe-central2
 c4-standard-144;144;False;540.00;;europe-north2
 c4-standard-144;144;False;540.00;;europe-southwest1
 c4-standard-144;144;False;540.00;;europe-west1
@@ -3424,6 +3429,7 @@ c4-standard-288;288;False;1080.00;;asia-southeast1
 c4-standard-288;288;False;1080.00;;asia-southeast3
 c4-standard-288;288;False;1080.00;;australia-southeast1
 c4-standard-288;288;False;1080.00;;australia-southeast2
+c4-standard-288;288;False;1080.00;;europe-central2
 c4-standard-288;288;False;1080.00;;europe-north2
 c4-standard-288;288;False;1080.00;;europe-southwest1
 c4-standard-288;288;False;1080.00;;europe-west1
