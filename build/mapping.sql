@@ -43,3 +43,19 @@ SET "MAPPING" = (
 );
 
 CREATE INDEX IF NOT EXISTS "pricing_index" ON "skus" ("MAPPING", "REGIONS") WHERE "MAPPING" IS NOT NULL;
+
+/*
+ * Normalization of RAM prices on GiBy.h
+ * 2026-02-20: C4D uses GBy.h
+ */
+
+UPDATE skus
+SET
+	"NANOS" = CAST(ROUND("NANOS" * 1.073741824) AS INTEGER),
+	"UNIT" = 'GiBy.h',
+	"SKU_DESCRIPTION" = "SKU_DESCRIPTION" || ' (Price converted from GBy.h to GiBy.h)',
+	"UNIT_DESCRIPTION" = 'Price converted from GBy.h to GiBy.h via mapping.sql'
+WHERE 
+	"FAMILY" LIKE 'Compute'
+	AND "GROUP" LIKE 'RAM'
+	AND "UNIT" LIKE 'GBy.h';
