@@ -152,12 +152,6 @@ In your usage file you can then use the machine type `n1-custom-24-108`.
 If you want to modify the scripts and create the price information yourself,
 the following requirements are needed.
 
-### Gitpod
-
-If you don't want to install all the tools locally yourself, you can use a [Gitpod](https://www.gitpod.io/).
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator)
-
 ### Development Containers
 
 If you don't want to install all the tools locally yourself, you can also use a [Dev Container](https://containers.dev/).
