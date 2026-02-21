@@ -6298,6 +6298,7 @@ g4-standard-192;192;False;720.00;;asia-southeast1
 g4-standard-192;192;False;720.00;;asia-southeast2
 g4-standard-192;192;False;720.00;;europe-north1
 g4-standard-192;192;False;720.00;;europe-west1
+g4-standard-192;192;False;720.00;;europe-west10
 g4-standard-192;192;False;720.00;;europe-west2
 g4-standard-192;192;False;720.00;;europe-west4
 g4-standard-192;192;False;720.00;;europe-west8
@@ -6333,6 +6334,7 @@ g4-standard-48;48;False;180.00;;asia-southeast1
 g4-standard-48;48;False;180.00;;asia-southeast2
 g4-standard-48;48;False;180.00;;europe-north1
 g4-standard-48;48;False;180.00;;europe-west1
+g4-standard-48;48;False;180.00;;europe-west10
 g4-standard-48;48;False;180.00;;europe-west2
 g4-standard-48;48;False;180.00;;europe-west4
 g4-standard-48;48;False;180.00;;europe-west8
@@ -6351,6 +6353,7 @@ g4-standard-96;96;False;360.00;;asia-southeast1
 g4-standard-96;96;False;360.00;;asia-southeast2
 g4-standard-96;96;False;360.00;;europe-north1
 g4-standard-96;96;False;360.00;;europe-west1
+g4-standard-96;96;False;360.00;;europe-west10
 g4-standard-96;96;False;360.00;;europe-west2
 g4-standard-96;96;False;360.00;;europe-west4
 g4-standard-96;96;False;360.00;;europe-west8

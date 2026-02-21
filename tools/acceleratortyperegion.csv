@@ -146,6 +146,7 @@ nvidia-rtx-pro-6000-vws;asia-southeast1
 nvidia-rtx-pro-6000-vws;asia-southeast2
 nvidia-rtx-pro-6000-vws;europe-north1
 nvidia-rtx-pro-6000-vws;europe-west1
+nvidia-rtx-pro-6000-vws;europe-west10
 nvidia-rtx-pro-6000-vws;europe-west2
 nvidia-rtx-pro-6000-vws;europe-west4
 nvidia-rtx-pro-6000-vws;europe-west8
@@ -164,6 +165,7 @@ nvidia-rtx-pro-6000;asia-southeast1
 nvidia-rtx-pro-6000;asia-southeast2
 nvidia-rtx-pro-6000;europe-north1
 nvidia-rtx-pro-6000;europe-west1
+nvidia-rtx-pro-6000;europe-west10
 nvidia-rtx-pro-6000;europe-west2
 nvidia-rtx-pro-6000;europe-west4
 nvidia-rtx-pro-6000;europe-west8
